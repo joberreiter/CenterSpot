@@ -3,7 +3,7 @@ CenterSpot
 
 CenterSpot is an aid to mark the center of a telescope mirror.
 
-  ![Detail](/doc/CenterSpotTemplate_detail.gif)
+<div style="text-align: center;">![Detail](/doc/CenterSpotTemplate_detail.gif)</div>
 
 Usage
 -----
