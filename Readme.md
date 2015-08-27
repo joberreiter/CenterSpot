@@ -1,13 +1,13 @@
-CenterSpotTemplate
-==================
+CenterSpot
+==========
 
-CenterSpotTemplate is an aid to mark the center of a telescope mirror.
+CenterSpot is an aid to mark the center of a telescope mirror.
 
-![Detail](/doc/CenterSpotTemplate_detail.gif)
+  ![Detail](/doc/CenterSpotTemplate_detail.gif)
 
 Usage
 -----
-- Print on a sheet of plain paper or transparency paper
+- Print the template on a sheet of plain or transparency paper
 - Cut out the innermost triangle using a cutter or scalpel
 - Position the template centric over the spot to be applied onto the (main) mirror
 - Fixate the spot with adhesive tape
@@ -22,7 +22,7 @@ Usage
 
 History
 -------
-v1.1
+[v1.1](https://github.com/joberreiter/CenterSpot/releases/tag/v1.1)
 - Four common metric diameters (114,127,130,200mm) added
 
 v1.0
