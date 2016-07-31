@@ -19,6 +19,11 @@ Usage
 - press firmly, then remove the adhesive tape (and the template) with caution
 - Done, you have marked the center of your mirror without hassle
 
+Bugs
+----
+
+[GitHub issue tracker](https://github.com/joberreiter/centerspot/issues)
+
 
 History
 -------
@@ -27,3 +32,9 @@ History
 
 v1.0
 - Initial release
+
+
+Donations
+---------
+
+[![Donation](https://img.shields.io/badge/donate-paypal-orange.svg)](https://www.paypal.com/cgi-bin/webscr?item_name=pyLoad+plugins&cmd=_donations&lc=US&currency_code=EUR&business=u.oberreiter%40gmx.net)
