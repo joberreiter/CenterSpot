@@ -37,4 +37,4 @@ v1.0
 Donations
 ---------
 
-[![Donation](https://img.shields.io/badge/donate-paypal-orange.svg)](https://www.paypal.com/cgi-bin/webscr?item_name=CenterSpot&cmd=_donations&lc=US&currency_code=EUR&business=ute.oberreiter%40gmx.net)
+[![Donation](https://img.shields.io/badge/donate-paypal-orange.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YUFC3CCK8KRG2)
