@@ -37,4 +37,4 @@ v1.0
 Donations
 ---------
 
-[![Donation](https://img.shields.io/badge/donate-paypal-orange.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YUFC3CCK8KRG2)
+[![Donation](https://img.shields.io/badge/donate-paypal-orange.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YUFC3CCK8KRG2&source=url)
