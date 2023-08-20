@@ -1,12 +1,9 @@
-CenterSpot
-==========
-
+# CenterSpot
 CenterSpot is an aid to mark the center of a telescope mirror.
 
 ![Detail](/doc/CenterSpotTemplate_detail.gif)
 
-Usage
------
+## Usage
 - Print the template on a sheet of plain or transparency paper
 - Cut out the innermost triangle using a cutter or scalpel
 - Position the template centric over the spot to be applied
@@ -19,22 +16,17 @@ Usage
 - Press firmly, then remove the adhesive tape (and the template) with caution
 - Done, you have marked the center of your mirror without hassle
 
-Bugs
-----
-
+## Bugs
 [GitHub issue tracker](https://github.com/joberreiter/centerspot/issues)
 
 
-History
--------
-[v1.1](https://github.com/joberreiter/CenterSpot/releases/tag/v1.1)
+## History
+### [v1.1](https://github.com/joberreiter/CenterSpot/releases/tag/v1.1)
 - Four common metric diameters (114, 127, 130, 200mm) added
 
-v1.0
+### v1.0
 - Initial release
 
 
-Donations
----------
-
-[![Donation](https://img.shields.io/badge/donate-paypal-orange.svg)](https://paypal.me/Oberreiter)
+## Donations
+[![Donation](https://img.shields.io/badge/donate-paypal-orange.svg)](https://www.paypal.com/donate/?hosted_button_id=RTX3R9XNR9Q7G)
